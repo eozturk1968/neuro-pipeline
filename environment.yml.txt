@@ -1,0 +1,8 @@
+name: neuro-pipeline
+dependencies:
+  - python=3.9
+  - mne
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
